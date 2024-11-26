@@ -1,12 +1,14 @@
 ## 👋
 
-Welcome to my profile! I'm Urlesst, though my friends call me Kevin. I'm a data science student, a waifu enthusiast, and a math lover. I code in my free time, but I often forget to upload my projects and sometimes lose them on my desktop. xD
+Welcome to my profile! I'm Urlesst, though my friends call me Kevin. I'm a data science student, a waifu enthusiast, and a math lover. I code in my free time, but I often forget to upload my projects and sometimes lose them on my desktop xD.
 
-Languages I know: C++, Java, Python, JavaScript (with Node.js), C
+- Languages I know: **C++, Java, Python, JavaScript (with Node.js), C**
 
+- Character in my pfp: **Firefly - Honkai Star Rail**
 
+- Full pfp: [here!](https://github.com/urlesst/urlesst/blob/main/fire%20wall.jpg)
 
-And no, HTML is not a programming language. Cheers!
+And no, HTML is not a programming language. **Cheers!**
 <!--
 **urlesst/urlesst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
