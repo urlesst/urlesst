@@ -10,7 +10,7 @@ Welcome to my profile! I'm Urlesst, though my friends call me Kevin. I'm a data 
 
 - Full pfp: [here!](https://github.com/urlesst/urlesst/blob/main/fire%20wall.jpg)
 
-And no, HTML is __NOT__ a programming language. **Cheers!**.
+And no, HTML is __NOT__ a programming language. **Cheers!**
 <!--
 **urlesst/urlesst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
