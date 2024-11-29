@@ -7,8 +7,10 @@ Welcome to my profile! I'm Urlesst, though my friends call me Kevin. I'm a data 
 - Moving from **Arch Linux** to **Debian** (Arch has broken on me 5 times already 🗿 cof, cof [dotfiles](https://github.com/urlesst/dotfiles) update for Debian?). 
   
 - Character in my pfp: **Firefly - Honkai Star Rail**.
+  
+- I respond faster on Discord.
 
-- Full pfp: [here!](https://github.com/urlesst/urlesst/blob/main/fire%20wall.jpg)
+- My desktop wallpaper: [here!](https://github.com/urlesst/urlesst/blob/main/fire%20wall.jpg)
 
 And no, HTML is __NOT__ a programming language. **Cheers!**
 <!--
