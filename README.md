@@ -10,7 +10,7 @@ Welcome to my profile! I'm Urlesst, though my friends call me Kevin. I'm a data 
   
 - I respond faster on Discord.
 
-- My desktop wallpaper: [here!](https://github.com/urlesst/urlesst/blob/main/fire%20wall.jpg)
+- My desktop wallpaper/Full pfp: [here!](https://github.com/urlesst/urlesst/blob/main/fire%20wall.jpg)
 
 And no, HTML is __NOT__ a programming language. **Cheers!**
 <!--
