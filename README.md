@@ -6,7 +6,7 @@ Welcome to my profile! I'm Urlesst, though my friends call me Kevin. I'm a data 
   
 - Moving from **Arch Linux** to **Debian** (Arch has broken on me 5 times already 🗿 cof, cof [dotfiles](https://github.com/urlesst/dotfiles) update for Debian?). 
   
-- Character in my pfp: **Carlotta - Wuthering Waves**.
+- Character in my pfp: **RyuZU - Clockwork Planet**.
   
 - I respond faster on Discord.
 
