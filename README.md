@@ -4,7 +4,7 @@ Welcome to my profile! I'm Urlesst, though my friends call me Kevin. I'm a data 
 
 - Programming languages I know: **C++, Java, Python, JavaScript (with Node.js), C**
   
-- Moving from **Arch Linux** to **Debian** (Arch has broken on me 5 times already 🗿 cof, cof [dotfiles](https://github.com/urlesst/dotfiles) update for Debian?). 
+- Living in **Arch Linux**. 
   
 - Character in my pfp: **Cap-Wearing Mita - MiSide**.
   
